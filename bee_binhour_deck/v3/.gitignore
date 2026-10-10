@@ -1,0 +1,4 @@
+# Kept out of the public repo until the owner confirms: the deck, workbooks and extracted deck data
+*.pptx
+*.xlsx
+deck_data.json
